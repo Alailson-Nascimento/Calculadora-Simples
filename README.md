@@ -1,5 +1,6 @@
 # Calculadora-Simples
-![{0C6280CE-3923-4B7B-BDA7-794029FCD145}](https://github.com/user-attachments/assets/866af8c3-756c-49be-9557-091cf3f611c8)
+![{08D4B0B1-AF92-4001-A663-8D9105C2B9F1}](https://github.com/user-attachments/assets/9f0c8953-a873-4a67-b7c8-5b0d46c59ab0)
+
 
 # Simples Calculadora
 
